@@ -1,0 +1,11 @@
+{
+"companyName": "CrowsCrowsCrows",
+"productName": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald",
+"dataUrl": "DrLangeskov_WebBuild.data.unityweb",
+"asmCodeUrl": "DrLangeskov_WebBuild.asm.code.unityweb",
+"asmMemoryUrl": "DrLangeskov_WebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "DrLangeskov_WebBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
