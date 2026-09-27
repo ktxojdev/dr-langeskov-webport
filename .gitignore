@@ -3,3 +3,7 @@
 *.backup
 .DS_Store
 Thumbs.db
+
+# Exclude unsplit data file to comply with GitHub / Vercel 100MB limit
+*.data.unityweb
+!*.data.unityweb.part*
